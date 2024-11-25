@@ -1,0 +1,19 @@
+#
+#
+#
+
+newmtl Cube Mesh_Material_002
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 1.000000
+
+newmtl Cylinder.001 Mesh_Material_001
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 1.000000
+map_Kd flashLight.jpeg
+

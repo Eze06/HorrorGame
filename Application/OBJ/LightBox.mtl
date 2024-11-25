@@ -1,0 +1,13 @@
+#
+#
+#
+
+newmtl 1 Mesh_01 - Default
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ns 1.000000
+
+map_Kd DefaultMaterial_albedo.jpeg
+

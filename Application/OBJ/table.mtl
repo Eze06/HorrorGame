@@ -1,0 +1,20 @@
+#
+#
+#
+
+newmtl table.001_table_top_0.001_table Mesh_table
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ns 1.000000
+map_Kd table.tga
+
+newmtl table_table_top_0_table Mesh_table
+illum 1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ns 1.000000
+map_Kd table.tga
+

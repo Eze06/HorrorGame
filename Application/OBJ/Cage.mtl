@@ -1,0 +1,14 @@
+# Blender 3.6.8 MTL File: 'DungeonCage02.blend'
+# www.blender.org
+
+newmtl Cube_BAKED
+Ka 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.00000
+d 1.000000
+illum 2
+map_Kd C:/Atlas_t.png
+map_Ks C:/Atlas_s.png
+map_Ns C:/Atlas_r.png
+map_refl C:/Atlas_m.png
+map_Bump -bm 1.000000 C:/Atlas_n.png
